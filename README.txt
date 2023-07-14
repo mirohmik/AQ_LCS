@@ -1,6 +1,7 @@
 ### data and code files for the paper ###
 ### Title : Long-term behavior and stability of calibration models for NO and NO2 low cost sensors
-### Author : Horim Kim
+### Author : Horim Kim, Horim Kim, Michael Müller, Stephan Henne, and Christoph Hüglin ###
+### https://doi.org/10.5194/amt-15-2979-2022 ###
 #########################################
 
 --------------- Version for R and regression packages ---------------
