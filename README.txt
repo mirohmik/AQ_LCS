@@ -52,7 +52,7 @@ package 'MASS' ver 7.3-54
 						 colocation campaign, and derive the statistical metrics with 
 						 filtered data, scatterplots, and timeseries.
 
-5_Figure : The R codes here produce Figure 5, 6, 8, ,9 and Figure s14.
+5_Figure : The R codes here produce Figure 5, 6, 8, 9 and Figure s14.
 
 
 
